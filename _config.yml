@@ -6,18 +6,18 @@ url:              http://v2.theevilgenius.tk
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
+  name:           Marcin Aleksander Pezda
   avatar:         bio-photo.jpg
   bio:            "Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Doha, Qatar. His interests are anything that’s related to math, from math itself to programming languages to music to physics to engineering to philosophy."
-  email:          hmfaysal@gmail.com
+  email:          nogeron@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
-  twitter:        hmfaysal
+  twitter:        nogeron
   facebook:       hmfaysal
-  github:         hmfaysal
+  github:         nogeron
   linkedin:       
-  instagram:      
-  lastfm:         
+  instagram:      nogeron
+  lastfm:         nogeron
   tumblr:         
   hmfaysalsocial: hmfaysal
   # For Google Authorship https://plus.google.com/authorship
@@ -47,7 +47,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Warsaw
 future:      true
 pygments:    true
 markdown:    kramdown
